@@ -1,25 +1,30 @@
+
 # 🚀 DSA Learning Journey
 
-Welcome to my personal repository dedicated to Data Structures and Algorithms (DSA)!  
-This repo chronicles my step-by-step progress as I master DSA concepts and problem-solving, following the renowned [Take U Forward DSA course](https://takeuforward.org/).
+Welcome to my personal repository for learning and practicing Data Structures and Algorithms (DSA) in C++.
+This repo documents my journey as I follow the [Take U Forward DSA course](https://takeuforward.org/) and build a strong foundation for coding interviews and real-world problem-solving.
 
 ---
+
 
 ## 📖 Table of Contents
-- [🎯 Goal](#-goal)
-- [🗂️ Topics Covered](#️-topics-covered)
-- [📈 Progress](#-progress)
-- [📚 Resources](#-resources)
-- [💡 How I’m Learning](#-how-im-learning)
-- [🌟 Final Thoughts](#-final-thoughts)
+- [Goal](#-goal)
+- [Topics Covered](#-topics-covered)
+- [Progress](#-progress)
+- [Folder Structure](#-folder-structure)
+- [Resources](#-resources)
+- [How I’m Learning](#-how-im-learning)
+- [Final Thoughts](#-final-thoughts)
 
 ---
+
 
 ## 🎯 Goal
 
-**Complete the Take U Forward DSA course and build a strong foundation in Data Structures and Algorithms to excel in coding interviews and real-world problem-solving.**
+**Complete the Take U Forward DSA course and master core DSA concepts to excel in coding interviews and real-world software development.**
 
 ---
+
 
 ## 🗂️ Topics Covered
 
@@ -40,6 +45,7 @@ This repo chronicles my step-by-step progress as I master DSA concepts and probl
 
 ---
 
+
 ## 📈 Progress ![Progress](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 | Topic                    | Status         |
@@ -49,13 +55,35 @@ This repo chronicles my step-by-step progress as I master DSA concepts and probl
 | Linked Lists             | ⬜ Not Started |
 | Stacks & Queues          | ⬜ Not Started |
 | Trees                    | ⬜ Not Started |
+| Heaps & Priority Queues  | ⬜ Not Started |
+| Hashing                  | ⬜ Not Started |
 | Graphs                   | ⬜ Not Started |
+| Greedy Algorithms        | ⬜ Not Started |
 | Dynamic Programming      | ⬜ Not Started |
-| Others                   | ⬜ Not Started |
+| Searching & Sorting      | ⬜ Not Started |
+| Bit Manipulation         | ⬜ Not Started |
+| Sliding Window & Two Pointer | ⬜ Not Started |
+| Miscellaneous            | ⬜ Not Started |
 
-*This table will be updated as I progress through the course.*
+_This table will be updated as I progress through the course._
+---
+
+## 📁 Folder Structure
+
+```
+DSA/
+├── C++/
+│   ├── array.cpp
+│   ├── hello.cpp
+│   └── vector.cpp
+├── LICENSE
+└── README.md
+```
+
+All code implementations are in the `C++` folder, organized by topic and file name.
 
 ---
+
 
 ## 📚 Resources
 
@@ -67,20 +95,22 @@ This repo chronicles my step-by-step progress as I master DSA concepts and probl
 
 ---
 
+
 ## 💡 How I’m Learning
 
-- Dedicating consistent daily time to study and code problems in C++.
-- Actively implementing each topic with hands-on coding.
-- Maintaining organized notes and code for quick revision.
-- Regularly revisiting challenging topics and problems to deepen understanding.
-- Tracking progress and reflecting on learning outcomes after each milestone.
+- Dedicating consistent daily time to study and solve problems in C++
+- Actively implementing each topic with hands-on coding
+- Maintaining organized notes and code for quick revision
+- Revisiting challenging topics and problems to deepen understanding
+- Tracking progress and reflecting on learning after each milestone
 
 ---
 
+
 ## 🌟 Final Thoughts
 
-Mastering DSA is a journey, not a sprint.  
-Every problem solved, every concept understood brings me one step closer to becoming a better problem solver and acing technical interviews.  
+Mastering DSA is a journey, not a sprint.
+Every problem solved and every concept understood brings me closer to becoming a better problem solver and acing technical interviews.
 Stay consistent, keep learning, and remember—progress is built one day at a time!
 
 ---
