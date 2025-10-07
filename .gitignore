@@ -32,10 +32,173 @@
 *.a
 *.lib
 
-# Executables
+# Executables (all platforms)
 *.exe
 *.out
 *.app
+*.bin
+*.elf
+*.run
 
 # debug information files
 *.dwo
+
+#####################
+# Python
+#####################
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+cython_debug/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python-specific caches
+.pytest_cache/
+pip-log.txt
+pip-delete-this-directory.txt
+migrations/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+#####################
+# Java
+#####################
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Java IDEs
+# Eclipse
+.project
+.classpath
+.cproject
+.settings/
+bin/
+tmp/
+*.launch
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+*.class
+
+#####################
+# C / C++
+#####################
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+makefile
+CMakeLists.txt.user
+build/
+Debug/
+Release/
+
+# Visual Studio
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.vscode/
+*.user
+*.suo
+*.ncb
+*.sln
+*.vcxproj*
+ipch/
+*.aps
+*.idb
+*.pdb
+*.opendb
+
+# Qt
+*.pro.user
+*.moc
+
+# Code::Blocks
+*.depend
+*.layout
+
+#####################
+# General
+#####################
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Other editors
+*.swp
+*.swo
+*~
+
+# Ensure no executables or binary files are committed
+*.exe
+*.out
+*.app
+*.bin
+*.elf
+*.run
