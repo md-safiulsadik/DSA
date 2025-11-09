@@ -33,7 +33,7 @@ string mergeAlternately(string word1, string word2) {
 }
 
 
-int main() {,
+int main() {
     
     // printf("Hello World\n");
     // cout << "Hello World" << endl;
