@@ -22,6 +22,7 @@ void display() {
 
 void insert_begin(int data) {
     struct Node* temp = (struct Node*) malloc(sizeof(struct Node));
+   
     temp->data = data;
     temp->next = head;
     head = temp;

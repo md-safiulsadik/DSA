@@ -20,7 +20,7 @@ void counting_sort(int arr[], int n, int max) {
     // Step 3: Prefix sum
     for (int i = 0; i <= max; i++)
     {
-        c[i+1] += c[i];
+        c[i + 1] = c[i + 1] + c[i];
     }
 
     
