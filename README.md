@@ -70,10 +70,6 @@ _This table will be updated as I progress through the course._
 ---
 
 ## 📁 Folder Structure
-
-```
-DSA/
-├── basics/
 # 🚀 DSA Learning Journey
 
 Welcome to my personal repository for learning and practicing Data Structures and Algorithms (DSA) in C++.
