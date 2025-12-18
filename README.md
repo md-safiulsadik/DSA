@@ -50,9 +50,11 @@ This repo documents my journey as I follow the [Take U Forward DSA course](https
 
 | Topic                    | Status         |
 |--------------------------|----------------|
+| Sorting & Searching      | 🔄 In Progress |
+| Recursion                | 🔄 In Progress |
+| Linked Lists             | 🔄 In Progress |
 | Arrays                   | 🔄 In Progress |
-| Recursion & Backtracking | ⬜ Not Started |
-| Linked Lists             | ⬜ Not Started |
+| Basic C++                | 🔄 In Progress |
 | Stacks & Queues          | ⬜ Not Started |
 | Trees                    | ⬜ Not Started |
 | Heaps & Priority Queues  | ⬜ Not Started |
@@ -60,7 +62,6 @@ This repo documents my journey as I follow the [Take U Forward DSA course](https
 | Graphs                   | ⬜ Not Started |
 | Greedy Algorithms        | ⬜ Not Started |
 | Dynamic Programming      | ⬜ Not Started |
-| Searching & Sorting      | ⬜ Not Started |
 | Bit Manipulation         | ⬜ Not Started |
 | Sliding Window & Two Pointer | ⬜ Not Started |
 | Miscellaneous            | ⬜ Not Started |
@@ -72,15 +73,41 @@ _This table will be updated as I progress through the course._
 
 ```
 DSA/
+├── basics/
+│   ├── binary_search.cpp
+│   ├── count_sort.cpp
+│   ├── counting_sort.cpp
+│   ├── insertion_sort.cpp
+│   ├── linked_list.c
+│   ├── linked_list.cpp
+│   └── recursion.cpp
 ├── C++/
+│   ├── array/
 │   ├── array.cpp
+│   ├── basic/
+│   ├── basic.cpp
 │   ├── hello.cpp
+│   ├── LTS/
+│   ├── LTS.cpp
 │   └── vector.cpp
+├── codeforce/
+│   ├── A_Boy_or_Girl.cpp
+│   └── A_Boy_or_Girl_BF.cpp
+├── leetcode/
+│   ├── 26.remove-duplicates-from-sorted-array.cpp
+│   ├── 27.remove-element.cpp
+│   ├── hello.cpp
+│   ├── test/
+│   └── test.cpp
 ├── LICENSE
 └── README.md
 ```
 
-All code implementations are in the `C++` folder, organized by topic and file name.
+**Folder Overview:**
+- **basics/**: Fundamental DSA concepts including sorting algorithms, binary search, recursion, and linked lists
+- **C++/**: C++ language fundamentals and advanced concepts
+- **codeforce/**: Solutions to Codeforces problems
+- **leetcode/**: Solutions to LeetCode problems
 
 ---
 
