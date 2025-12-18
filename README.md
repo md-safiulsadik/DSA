@@ -74,6 +74,78 @@ _This table will be updated as I progress through the course._
 ```
 DSA/
 ├── basics/
+# 🚀 DSA Learning Journey
+
+Welcome to my personal repository for learning and practicing Data Structures and Algorithms (DSA) in C++.
+This repo documents my journey as I follow the [Take U Forward DSA course](https://takeuforward.org/) and build a strong foundation for coding interviews and real-world problem-solving.
+
+---
+
+## 📖 Table of Contents
+- [Goal](#-goal)
+- [Topics Covered](#-topics-covered)
+- [Progress](#-progress)
+- [Folder Structure](#-folder-structure)
+- [Resources](#-resources)
+- [How I’m Learning](#-how-im-learning)
+- [Final Thoughts](#-final-thoughts)
+
+---
+
+## 🎯 Goal
+
+**Complete the Take U Forward DSA course and master core DSA concepts to excel in coding interviews and real-world software development.**
+
+---
+
+## 🗂️ Topics Covered
+
+- Arrays & Strings
+- Recursion & Backtracking
+- Linked Lists
+- Stacks & Queues
+- Trees (Binary Trees, BSTs, etc.)
+- Heaps & Priority Queues
+- Hashing
+- Graphs (BFS, DFS, Topological Sort, etc.)
+- Greedy Algorithms
+- Dynamic Programming (DP)
+- Searching & Sorting
+- Bit Manipulation
+- Sliding Window & Two Pointer Techniques
+- Miscellaneous Interview Patterns
+
+---
+
+## 📈 Progress ![Progress](https://img.shields.io/badge/Status-In%20Progress-orange)
+
+| Topic                    | Status         |
+|--------------------------|----------------|
+| Sorting & Searching      | 🔄 In Progress |
+| Recursion                | 🔄 In Progress |
+| Linked Lists             | 🔄 In Progress |
+| Arrays                   | 🔄 In Progress |
+| Basic C++                | 🔄 In Progress |
+| Stacks & Queues          | ⬜ Not Started |
+| Trees                    | ⬜ Not Started |
+| Heaps & Priority Queues  | ⬜ Not Started |
+| Hashing                  | ⬜ Not Started |
+| Graphs                   | ⬜ Not Started |
+| Greedy Algorithms        | ⬜ Not Started |
+| Dynamic Programming      | ⬜ Not Started |
+| Bit Manipulation         | ⬜ Not Started |
+| Sliding Window & Two Pointer | ⬜ Not Started |
+| Miscellaneous            | ⬜ Not Started |
+
+_This table will be updated as I progress through the course._
+
+---
+
+## 📁 Folder Structure
+
+```
+DSA/
+├── basics/
 │   ├── binary_search.cpp
 │   ├── count_sort.cpp
 │   ├── counting_sort.cpp
@@ -111,7 +183,6 @@ DSA/
 
 ---
 
-
 ## 📚 Resources
 
 - [Take U Forward DSA Course](https://takeuforward.org/)
@@ -122,7 +193,6 @@ DSA/
 
 ---
 
-
 ## 💡 How I’m Learning
 
 - Dedicating consistent daily time to study and solve problems in C++
@@ -132,7 +202,6 @@ DSA/
 - Tracking progress and reflecting on learning after each milestone
 
 ---
-
 
 ## 🌟 Final Thoughts
 
