@@ -8,14 +8,11 @@ int main() {
     for (int i = 1; i < n; i++) {
         int key = i;
         int j = i - 1;
-
-        for (j = i-1; (j >= 0) && (key < arr[j]); j--) {
+        
+        while (key < arr[j] && j >= 0) {
             arr[j + 1] = arr[j];
+            j--;
         }
-        // while (key < arr[j] && j >= 0) {
-        //     arr[j + 1] = arr[j];
-        //     j--;
-        // }
         arr[j + 1] = key;
     }
 

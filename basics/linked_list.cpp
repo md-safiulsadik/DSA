@@ -54,7 +54,7 @@ void insert(int data, int index) {
     Node* previous_head = NULL;
     Node* new_head = head;
 
-    while (new_head->next != NULL && index != 0) {
+    while (new_head->next != NULL && index != 1) {
         previous_head = new_head;
         new_head = new_head->next;
         index--;
@@ -66,6 +66,21 @@ void insert(int data, int index) {
 
 void remove() {
 
+}
+
+void reverse() {
+    Node* curr = nullptr;
+    Node* prev = nullptr;
+    Node* next = nullptr;
+    
+    curr = head;
+
+    while (curr != nullptr) {
+        next = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = next;
+    }
 }
 
 void toString() {
