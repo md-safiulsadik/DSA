@@ -1,75 +1,4 @@
-
-# 🚀 DSA Learning Journey
-
-Welcome to my personal repository for learning and practicing Data Structures and Algorithms (DSA) in C++.
-This repo documents my journey as I follow the [Take U Forward DSA course](https://takeuforward.org/) and build a strong foundation for coding interviews and real-world problem-solving.
-
----
-
-
-## 📖 Table of Contents
-- [Goal](#-goal)
-- [Topics Covered](#-topics-covered)
-- [Progress](#-progress)
-- [Folder Structure](#-folder-structure)
-- [Resources](#-resources)
-- [How I’m Learning](#-how-im-learning)
-- [Final Thoughts](#-final-thoughts)
-
----
-
-
-## 🎯 Goal
-
-**Complete the Take U Forward DSA course and master core DSA concepts to excel in coding interviews and real-world software development.**
-
----
-
-
-## 🗂️ Topics Covered
-
-- Arrays & Strings
-- Recursion & Backtracking
-- Linked Lists
-- Stacks & Queues
-- Trees (Binary Trees, BSTs, etc.)
-- Heaps & Priority Queues
-- Hashing
-- Graphs (BFS, DFS, Topological Sort, etc.)
-- Greedy Algorithms
-- Dynamic Programming (DP)
-- Searching & Sorting
-- Bit Manipulation
-- Sliding Window & Two Pointer Techniques
-- Miscellaneous Interview Patterns
-
----
-
-
-## 📈 Progress ![Progress](https://img.shields.io/badge/Status-In%20Progress-orange)
-
-| Topic                    | Status         |
-|--------------------------|----------------|
-| Sorting & Searching      | 🔄 In Progress |
-| Recursion                | 🔄 In Progress |
-| Linked Lists             | 🔄 In Progress |
-| Arrays                   | 🔄 In Progress |
-| Basic C++                | 🔄 In Progress |
-| Stacks & Queues          | ⬜ Not Started |
-| Trees                    | ⬜ Not Started |
-| Heaps & Priority Queues  | ⬜ Not Started |
-| Hashing                  | ⬜ Not Started |
-| Graphs                   | ⬜ Not Started |
-| Greedy Algorithms        | ⬜ Not Started |
-| Dynamic Programming      | ⬜ Not Started |
-| Bit Manipulation         | ⬜ Not Started |
-| Sliding Window & Two Pointer | ⬜ Not Started |
-| Miscellaneous            | ⬜ Not Started |
-
-_This table will be updated as I progress through the course._
----
-
-## 📁 Folder Structure
+name=README.md
 # 🚀 DSA Learning Journey
 
 Welcome to my personal repository for learning and practicing Data Structures and Algorithms (DSA) in C++.
@@ -84,13 +13,15 @@ This repo documents my journey as I follow the [Take U Forward DSA course](https
 - [Folder Structure](#-folder-structure)
 - [Resources](#-resources)
 - [How I’m Learning](#-how-im-learning)
+- [Contributing](#-contributing)
+- [License](#-license)
 - [Final Thoughts](#-final-thoughts)
 
 ---
 
 ## 🎯 Goal
 
-**Complete the Take U Forward DSA course and master core DSA concepts to excel in coding interviews and real-world software development.**
+Complete the Take U Forward DSA course and master core DSA concepts to excel in coding interviews and real-world software development.
 
 ---
 
@@ -115,23 +46,23 @@ This repo documents my journey as I follow the [Take U Forward DSA course](https
 
 ## 📈 Progress ![Progress](https://img.shields.io/badge/Status-In%20Progress-orange)
 
-| Topic                    | Status         |
-|--------------------------|----------------|
-| Sorting & Searching      | 🔄 In Progress |
-| Recursion                | 🔄 In Progress |
-| Linked Lists             | 🔄 In Progress |
-| Arrays                   | 🔄 In Progress |
-| Basic C++                | 🔄 In Progress |
-| Stacks & Queues          | ⬜ Not Started |
-| Trees                    | ⬜ Not Started |
-| Heaps & Priority Queues  | ⬜ Not Started |
-| Hashing                  | ⬜ Not Started |
-| Graphs                   | ⬜ Not Started |
-| Greedy Algorithms        | ⬜ Not Started |
-| Dynamic Programming      | ⬜ Not Started |
-| Bit Manipulation         | ⬜ Not Started |
-| Sliding Window & Two Pointer | ⬜ Not Started |
-| Miscellaneous            | ⬜ Not Started |
+| Topic                            | Status         |
+|----------------------------------|----------------|
+| Sorting & Searching              | 🔄 In Progress |
+| Recursion                        | 🔄 In Progress |
+| Linked Lists                     | 🔄 In Progress |
+| Arrays                           | 🔄 In Progress |
+| Basic C++                        | 🔄 In Progress |
+| Stacks & Queues                  | ⬜ Not Started  |
+| Trees                            | ⬜ Not Started  |
+| Heaps & Priority Queues          | ⬜ Not Started  |
+| Hashing                          | ⬜ Not Started  |
+| Graphs                           | ⬜ Not Started  |
+| Greedy Algorithms                | ⬜ Not Started  |
+| Dynamic Programming              | ⬜ Not Started  |
+| Bit Manipulation                 | ⬜ Not Started  |
+| Sliding Window & Two Pointers    | ⬜ Not Started  |
+| Miscellaneous                    | ⬜ Not Started  |
 
 _This table will be updated as I progress through the course._
 
@@ -173,7 +104,7 @@ DSA/
 
 **Folder Overview:**
 - **basics/**: Fundamental DSA concepts including sorting algorithms, binary search, recursion, and linked lists
-- **C++/**: C++ language fundamentals and advanced concepts
+- **C++/**: C++ language fundamentals and example code
 - **codeforce/**: Solutions to Codeforces problems
 - **leetcode/**: Solutions to LeetCode problems
 
@@ -199,10 +130,21 @@ DSA/
 
 ---
 
-## 🌟 Final Thoughts
+## 🤝 Contributing
 
-Mastering DSA is a journey, not a sprint.
-Every problem solved and every concept understood brings me closer to becoming a better problem solver and acing technical interviews.
-Stay consistent, keep learning, and remember—progress is built one day at a time!
+If you'd like to contribute:
+- Open an issue to discuss changes or propose new solutions.
+- Fork the repo, create a branch, and submit a pull request with clear explanations.
+- Keep solutions focused, well-documented, and include references (problem links).
 
 ---
+
+## 📜 License
+
+This repository contains example solutions and notes for learning DSA. See the LICENSE file for details.
+
+---
+
+## 🌟 Final Thoughts
+
+Mastering DSA is a journey, not a sprint. Every problem solved and every concept understood brings you closer to becoming a better problem solver and acing technical interviews. Stay consistent, keep learning, and remember—progress is built one day at a time.
