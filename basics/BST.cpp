@@ -61,9 +61,9 @@ void pre_order(TreeNode* node) { // root-left-right
 
     if (node == nullptr) return; 
 
+    pre_order(node->right);
     cout << node->data << " ";
     pre_order(node->left);
-    pre_order(node->right);
 }
 
 void in_order(TreeNode* node) { // left-root-right
