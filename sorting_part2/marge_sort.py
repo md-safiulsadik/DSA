@@ -16,7 +16,6 @@ def merge(arr, low, high, mid):
         temp.append(arr[left])
         left += 1
 
-
     while right <= high:
         temp.append(arr[right])
         right += 1
